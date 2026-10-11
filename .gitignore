@@ -1,0 +1,11 @@
+# Regenerated locally from your own game client with _reference/tools (see README).
+# Not published: Blizzard's UI code and lists extracted from the client.
+_reference/BlizzardInterfaceCode/
+_reference/asset-paths.txt
+_reference/wow-exe-identifiers.txt
+
+# Copies of other people's addons kept for reference (their licenses, not ours).
+_reference/third-party/
+
+__pycache__/
+*.pyc

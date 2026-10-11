@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Recount Blizzard Skin
+## Notes: Makes Recount look like Blizzard's tooltip/chat windows, with Blizzard health-bar textured bars.
+## Author: Amogh
+## Version: 0.2.0
+## Dependencies: Recount
+## SavedVariables: RecountBlizzardSkinDB
+
+Skin.lua
+Options.lua

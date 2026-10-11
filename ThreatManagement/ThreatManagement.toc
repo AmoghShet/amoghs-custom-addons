@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: ThreatManagement
+## Notes: Shows your threat % on the target frame (and optionally under nameplates), styled like the default UI.
+## Author: Amogh
+## Version: 0.2.0
+## SavedVariables: ThreatManagementDB
+
+Core.lua
+Target.lua
+Nameplates.lua
+Alerts.lua
+CCData.lua
+CCBreaks.lua
+Options.lua

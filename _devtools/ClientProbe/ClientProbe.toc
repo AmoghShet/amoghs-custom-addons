@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: ClientProbe
+## Notes: Records 3.3.5a client facts into SavedVariables for offline analysis. Dev tool only.
+## Author: Amogh
+## Version: 1
+## SavedVariables: ClientProbeDB
+## X-ProbeMarker: B
+
+ClientProbe.lua

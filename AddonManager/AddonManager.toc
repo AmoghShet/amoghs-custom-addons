@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: AddonManager
+## Notes: The character-select AddOn List, in game, with search and an All / Enabled / Disabled filter.
+## Author: Amogh
+## Version: 0.1.0
+
+AddonManager.lua

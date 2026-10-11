@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AddonSkeleton
+## Notes: Starter template for WoW 3.3.5a (Warmane). Rename folder, .toc, SavedVariables and slash names together.
+## Author: Amogh
+## Version: 0.1.0
+## SavedVariables: AddonSkeletonDB
+
+Core.lua
