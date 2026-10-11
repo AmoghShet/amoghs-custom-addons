@@ -24,6 +24,7 @@ All settings pages are also under **Interface > AddOns**.
 - `CLAUDE.md`: the short version of those rules, used when building these addons with Claude Code.
 - `_templates/AddonSkeleton`: a starter addon (events, saved variables, timers, combat-safe changes, options panel, slash command).
 - `_devtools/ClientProbe`: a dev-only addon that records facts about the running client.
+- `_devtools/sync_addons.py`: copies the addons from this repo into the game's `Interface\AddOns` folder (`python -I _devtools/sync_addons.py "<WoW>/Interface/AddOns"`). Only new or changed files are copied; nothing is deleted.
 - `_reference/tools`: Python scripts that read the game's own files (MPQ archives, DBC tables, BLP textures).
 
 ## Reference data you generate yourself
